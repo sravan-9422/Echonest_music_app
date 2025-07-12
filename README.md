@@ -1,18 +1,10 @@
-# 🎧 EchoNest – Royalty-Free Music Discovery App
+## 📁 Screen Designs (Week 1)
 
-A clean, ad-free mobile music app focused on discovering regional and indie music without licensing hurdles. Built slow and steady using free tools.
+- **Home Screen**  
+  ![Home Screen](design/newscreen.png)
 
-## 🗓️ Week 1 Progress
-- ✅ Defined MVP features
-- ✅ Designed home screen wireframe using Uizard
-- ✅ Created `/design` folder and added visual assets
+- **Settings Screen**  
+  ![Settings Screen](design/settings.png)
 
-## 📁 Screens
-![EchoNest Home Screen](design/echonest_home_screen.png)
-
-## 🔧 Tech Stack (Planned)
-- Flutter / React Native
-- Firebase (Free Tier)
-- TensorFlow.js (for mood analysis)
-- Free Music Archive / Jamendo (for royalty-free content)
-
+- **Playlists Screen**  
+  ![Playlists Screen](design/playlists.png)
