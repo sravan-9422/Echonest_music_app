@@ -1,13 +1,8 @@
-## 📁 Screen Designs (Week 1)
+## 📁  Screen Designs (Week 1)
 
-- **Home Screen**  
-  ![Home Screen](design/newscreen.png)
-
-- **Settings Screen**  
-  ![Settings Screen](design/settings.png)
-
-- **Playlists Screen**  
-  ![Playlists Screen](design/playlist.png)
-  
-- **Playlists Screen**  
-  ![Playlists Screen](design/discover.png)
+<p align="center">
+  <img src="design/homescreen.png" alt="Home Screen" width="220"/>
+  <img src="design/settings.png" alt="Settings Screen" width="220"/>
+  <img src="design/playlist.png" alt="Playlists Screen" width="220"/>
+  <img src="design/discover.png" alt="Discover Screen" width="220"/>
+</p>
