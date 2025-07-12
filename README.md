@@ -7,4 +7,4 @@
   ![Settings Screen](design/settings.png)
 
 - **Playlists Screen**  
-  ![Playlists Screen](design/playlists.png)
+  ![Playlists Screen](design/playlist.png)
